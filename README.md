@@ -1,2 +1,2 @@
 # full-stack
-full stack development
+Build, Test, and Automate Full-Stack Web Applications 
